@@ -1,4 +1,4 @@
-<h1 align="center">AWS-Ethical Hacking-lab.</h1>
+<h1 align="center">AWS-Ethical Hacking Lab.</h1>
 
 As part of my learning experience at TKH, we Have to working-team where participants can simulate real-world scenarios, fostering collaboration and problem-solving skills. The lab provides an opportunity to work with AWS's native security services, such as AWS Identity and Access Management (IAM), AWS Shield, and AWS WAF (Web Application Firewall). Our team aspires to create a website that showcases our home lab and documents our process of establishing it in the cloud.  
 
