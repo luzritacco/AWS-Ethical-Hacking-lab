@@ -15,14 +15,24 @@ As part of my learning experience at TKH, we Have to working-team where particip
 - EC2 (Elastic Compute Cloud)
 - Networking components like NAT gateways, internet gateways, route tables, security groups and users.
 - Amazon Guard Duty
-- Amazon CloudWatch
-
- 
+- Amazon CloudWatch 
  ##
- My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry.I also demonstrate how I can apply them to real world scenarios and challenges that security professionals face. My paper intends to showcase my skills and knowledge in security testing, analysis, and research.
+ **Click here to have more details**
 
-#### Here's a fragment of my detail- paper:
-##
+- **Project Notes:**
+     - https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc
+  
+- **Lab Report-Layout:**
+     - https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing
+- **Presentation:**
+    - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing
+    - https://docs.google.com/presentation/d/1tf_wxw4TL_7j4R_qoHTwvqy17t22BdTtfls81D6gIlQ/edit?usp=sharing
+- **Final Paper**
+
+   - [ -https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67 ](https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67)
+ - **Detail Paper**
+   -  https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit
+   -  https://docs.google.com/document/d/13sIidHHO997VYtuUIkW6jyv7qrFU4bDyQ34OFRcVJSc/edit
 
 #### Here's a link for the group repository:
 - https://github.com/Quatecha/Phase-2-Final-Project_TKH-/blob/main/README.md
