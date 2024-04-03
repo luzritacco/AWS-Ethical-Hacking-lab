@@ -42,7 +42,7 @@ For our team, encountering this issues that demand significant time to resolve c
 |<h2> Project Details </h2> |<h2> Links</h2>  |
 | ------------- | ------------- |
 |-**Project Notes:**            |-https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc |
-|-**Lab Report  Layout:**       |-https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing  |
+|-**Lab Report  Layout:**       |-https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing|
 |-**Detail Paper:**             | -  https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit. |
 |-**Final Paper:**              |- https://1drv.ms/w/s!ArrXxP7mFzWXjn7ccVmGCj8Dk4Ly?e=ijgebo        |
 |-**Presentation:**             | - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing  |
