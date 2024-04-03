@@ -40,13 +40,13 @@ For our team, encountering this issues that demand significant time to resolve c
 
 
 |<h2> Project Details </h2> |<h2> Links</h2>  |
-| ------------- | ------------- |
-|-**Project Notes:**            |-https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc |
-|-**Lab Report  Layout:**       |-https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing|
-|-**Detail Paper:**             | -  https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit. |
-|-**Final Paper:**              |- https://1drv.ms/w/s!ArrXxP7mFzWXjn7ccVmGCj8Dk4Ly?e=ijgebo        |
-|-**Presentation:**             | - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing  |
-|**-The group repository:**     |- https://github.com/Quatecha/Phase-2-Final-Project_TKH-/blob/main/README.md |
+| -------------             | -------------    |
+|-**Project Notes:**                          |-https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc |
+|-**Lab Report  Layout:**                     |-https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing|
+|-**Detail Paper:**                           | -  https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit. |
+|-**Final Paper:**                            |- https://1drv.ms/w/s!ArrXxP7mFzWXjn7ccVmGCj8Dk4Ly?e=ijgebo        |
+|-**Presentation:**                           | - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing  |
+|**-The group repository:**                   |- https://github.com/Quatecha/Phase-2-Final-Project_TKH-/blob/main/README.md |
 
 
 
@@ -56,7 +56,7 @@ For our team, encountering this issues that demand significant time to resolve c
 Creating an ethical hacking lab in Amazon Web Services (AWS) can be both exciting and challenging. Here are some experiences and insights that our team encounter during the process.
 
 
-|    Challenge | Learning Experience |
+| <h2>   Challenges</h2> |<h2> Learning Experience</h2> |
 | ------------- | ------------- |
  -Setting Up the Lab Environment- Configuring the lab environment correctly can be tricky. we’ll need to create instances, set up networking, and ensure proper security.  | ☑Take our time to follow step-by-step or instructions. Double-check configurations to avoid mistakes.|
 | - Selecting the appropriate EC2 instance types for your lab can be overwhelming. Different use cases require different resources. | ☑ Understand your lab’s requirements and choose instances accordingly.|
