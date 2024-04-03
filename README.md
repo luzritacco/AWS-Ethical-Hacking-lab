@@ -48,7 +48,7 @@ Creating an ethical hacking lab in Amazon Web Services (AWS) can be both excitin
  -Setting Up the Lab Environment- Configuring the lab environment correctly can be tricky. we’ll need to create instances, set up networking, and ensure proper security.  | ☑Take our time to follow step-by-step or instructions. Double-check configurations to avoid mistakes.|
 | - Selecting the appropriate EC2 instance types for your lab can be overwhelming. Different use cases require different resources. | ☑ Understand your lab’s requirements and choose instances accordingly.|
 |-Properly configuring security groups and network settings is crucial. Misconfigurations can lead to   connectivity issues or security vulnerabilities. |☑Test connectivity thoroughly to ensure proper communication between instances. Refer to AWS documentation and best practices. |
-|-Managing access control using key pairs can be confusing, especially if you’re new to AWS |☑Create and securely store your key pairs. Understand how SSH or RDP connections work with these keys.|
+|-Managing access control using key pairs can be confusing, especially if you’re new to AWS. |☑Create and securely store your key pairs. Understand how SSH or RDP connections work with these keys.|
 |-Setting up Kali Linux correctly is essential for ethical hacking. Installing tools, updating repositories, and configuring network interfaces can be complex.|☑Take the time to follow step-by-step instructions. Double-check configurations to avoid mistakes.|
 |-Keeping track of your findings, vulnerabilities, and successful exploits is crucial.|☑Use tools like Keep Note or a simple text file to document your progress. Include details, screenshots, and steps taken.|
 
