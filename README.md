@@ -17,6 +17,15 @@ As part of my learning experience at TKH, we Have to working-team where particip
 - Amazon Guard Duty
 - Amazon CloudWatch 
  ##
+
+ - **Project Visual workflow :**
+   ![Screenshot 2024-03-25 005908](https://github.com/Quatecha/Phase-2-Final-Project_TKH-/assets/151267325/3b423c17-46ea-41ac-bee3-f5f5534003dc)
+
+
+**Click here to have a visual workflow by stages**
+  
+- https://1drv.ms/w/s!ALrXxP7mFzWXjwg?e=IsZIoG
+ ##
  **Click here to have more details**
 
 - **Project Notes:**
@@ -38,6 +47,6 @@ As part of my learning experience at TKH, we Have to working-team where particip
 - https://github.com/Quatecha/Phase-2-Final-Project_TKH-/blob/main/README.md
 
 ##
-<h3 align="center"> Here's the network diagram -layout- topology of my cybersecurity Home-lab setup:
+
 
  
