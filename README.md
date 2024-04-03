@@ -37,6 +37,19 @@ For our team, encountering this issues that demand significant time to resolve c
 
  However, these moments of frustration can also be transformed into opportunities for growth and learning. Troubleshooting can foster a deeper understanding of the system, enhance problem-solving skills, and strengthen team collaboration. When a team faces a complex issue, it's an invitation to come together, pool knowledge, and find innovative solutions.
 
+
+
+|<h2> Project Details </h2> |<h2> Links</h2>  |
+| ------------- | ------------- |
+|-**Project Notes:**            |-https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc |
+|-**Lab Report  Layout:**       |-https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing  |
+|-**Detail Paper:**             | -  https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit. |
+|-**Final Paper:**              |- https://1drv.ms/w/s!ArrXxP7mFzWXjn7ccVmGCj8Dk4Ly?e=ijgebo        |
+|-**Presentation:**             | - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing  |
+|**-The group repository:**     |- https://github.com/Quatecha/Phase-2-Final-Project_TKH-/blob/main/README.md |
+
+
+
 ##
  <h1 align="center">  Issues and learning Experience on this process.</h1>
 
@@ -57,28 +70,6 @@ Creating an ethical hacking lab in Amazon Web Services (AWS) can be both excitin
 <h1 align="center">Conclusion</h1>
 
  Implementing a cybersecurity lab within a collaborative team on AWS is a strategic move towards developing a deeper understanding of cybersecurity measures. AWS provides a practical platform for teams to learn, experiment, and prepare for real-world cyber threats, ensuring that their home lab is a fortress against digital adversaries. AWS tools and services offer the necessary resources to build a sophisticated and secure cybersecurity lab for us as a professional in cybersecurity who wants to keep learning and improving our professional skills. Whether you are a beginner or an experienced professional.
-
-##
-
- **Click here to have more details**
-
-- **Project Notes:**
-     - https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc
-  
-- **Lab Report-Layout:**
-     - https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing
-- **Presentation:**
-    - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing
-    - https://docs.google.com/presentation/d/1tf_wxw4TL_7j4R_qoHTwvqy17t22BdTtfls81D6gIlQ/edit?usp=sharing
-- **Final Paper**
-
-   - [ -https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67 ](https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67)
- - **Detail Paper**
-   -  https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit
-   -  https://docs.google.com/document/d/13sIidHHO997VYtuUIkW6jyv7qrFU4bDyQ34OFRcVJSc/edit
-
-#### Here's a link for the group repository:
-- https://github.com/Quatecha/Phase-2-Final-Project_TKH-/blob/main/README.md
 
 ##
 
