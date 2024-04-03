@@ -20,12 +20,51 @@ As part of my learning experience at TKH, we Have to working-team where particip
 
  - **Project Visual workflow :**
    ![Screenshot 2024-03-25 005908](https://github.com/Quatecha/Phase-2-Final-Project_TKH-/assets/151267325/3b423c17-46ea-41ac-bee3-f5f5534003dc)
+##
 
 
 **Click here to have a visual workflow by stages**
   
 - https://1drv.ms/w/s!ALrXxP7mFzWXjwg?e=IsZIoG
  ##
+ <h1 align="center"> Our AWS Home Lab.</h1>
+
+   Setting up a bastion host can indeed be challenging, especially when it comes to ensuring secure access to EC2 instances within a private subnet. It's crucial to have the correct configurations in place, as the bastion host acts as a gateway to your private resources, enforcing strict access control and monitoring. When creating a new VPC, it's important to carefully plan the architecture, considering how the public and private subnets will interact, and how security measures like NACLs and security groups will be implemented.
+
+  We were trying to set up a bastion host in our first public subnet so that we could allow internet traffic to ourEC2 instances on our private subnet. We ran into issues with the configurations of our bastion host which forced us to have to create an entirely new environment with a new VPC. On this VPC, we create one private and one public subnet and instead of using a bastion host we will have out attack machine on the public subnet and our target machine on our private subnet.
+For our team, encountering this issues that demand significant time to resolve can be frustrating, especially when it impacts the project timeline and workflow. The situation becomes even more challenging when there's a need to start from scratch or seek external assistance.
+
+
+ However, these moments of frustration can also be transformed into opportunities for growth and learning. Troubleshooting can foster a deeper understanding of the system, enhance problem-solving skills, and strengthen team collaboration. When a team faces a complex issue, it's an invitation to come together, pool knowledge, and find innovative solutions.
+
+##
+ <h1 align="center">  Issues and learning Experience on this process.</h1>
+
+Creating an ethical hacking lab in Amazon Web Services (AWS) can be both exciting and challenging. Here are some experiences and insights that our team encounter during the process.
+
+
+**- Challenge: Setting** Up the Lab Environment- Configuring the lab environment correctly can be tricky. we’ll need to create instances, set up networking, and ensure proper security.
+
+•	**Leaning Experience:** Take our time to follow step-by-step or instructions. Double-check configurations to avoid mistakes.
+•	**Challenge:** Selecting the appropriate EC2 instance types for your lab can be overwhelming. Different use cases require different resources.
+
+•	Leaning Experience: Understand your lab’s requirements and choose instances accordingly.
+
+•	**Challenge:**  Properly configuring security groups and network settings is crucial. Misconfigurations can lead to connectivity issues or security vulnerabilities.
+
+•	Leaning Experience: Test connectivity thoroughly to ensure proper communication between instances. Refer to AWS documentation and best practices.
+
+•	**Challenge:** Managing access control using key pairs can be confusing, especially if you’re new to AWS
+
+•	Leaning Experience: Create and securely store your key pairs. Understand how SSH or RDP connections work with these keys.
+•	**Challenge:** Setting up Kali Linux correctly is essential for ethical hacking. Installing tools, updating repositories, and configuring network interfaces can be complex.
+
+•	Leaning Experience: Take the time to follow step-by-step instructions. Double-check configurations to avoid mistakes.
+
+•	**Challenge:**  Keeping track of your findings, vulnerabilities, and successful exploits is crucial.
+
+•	Learning Experience: Use tools like Keep Note or a simple text file to document your progress. Include details, screenshots, and steps taken.
+
  **Click here to have more details**
 
 - **Project Notes:**
@@ -48,6 +87,5 @@ As part of my learning experience at TKH, we Have to working-team where particip
 
 ##
 
-
-> _**Team-2 Members: D'andre W,  Jose R, Luz R, Luis V, Quatecha C, Margaret E, Mathew E**_
+> _**Team-2 Members: D'andre W,  Jose R, Luz R, Luis V, Quatecha C, Margaret E, Mathew E.**_
  
